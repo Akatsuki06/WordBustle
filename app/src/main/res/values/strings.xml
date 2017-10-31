@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">WordBustle</string>
+    <string name="about_us">
+       "Developed by Akatsuki and CM"
+    </string>
+    <string name="break_">*******</string>
+    <string name="gameplayinfo">
+
+       <font color="grey"><b>*</b></font>  Click on the buttons in order to unscramble a complete 4 letter correct  word!\n
+      <font color="grey"><b>*</b></font>   The letters of the word are scrambled randomly on the buttons.\n
+       <font color="grey"><b>*</b></font>  By touching a button the letter on the button will be visible on the text Screen.\n
+       <font color="grey"><b>*</b></font>  One needs to unscramble the word by simply touching right pattern of buttons forming a correct word on the text Screen.\n
+       <font color="grey"><b>*</b></font>  A<font color="red"><i> red </i></font> color on the text means the word formed by user is <font color="red"><i>incorrect </i></font>,\n
+                                              while a <font color="green"><i>green</i></font> color proves its <font color="green"><i>correct.</i></font>\n
+       <font color="grey"><b>*</b></font>  Once incorrect the user wont be able to revert back the buttons, better not to waste time and keep going.\n
+       <font color="grey"><b>*</b></font>  There is a time limit in the game, depending upon the level chosen.\n
+       <font color="grey"><b>*</b></font>  To skip a particular word in case you are unaware of the correct word, click on the text screen.\n
+
+    </string>
+</resources>
